@@ -21,11 +21,11 @@ To use this tool, ensure you have Python installed on your system.
 
 ## Libraries installation 
 
-pip install python-docx
-pip install docx2pdf
-pip install pdf2docx
-pip install fpdf
-pip install PyMuPDF
-pip install pandas
-pip install Pillow
+-- pip install python-docx
+-- pip install docx2pdf
+-- pip install pdf2docx
+-- pip install fpdf
+-- pip install PyMuPDF
+-- pip install pandas
+-- pip install Pillow
 
